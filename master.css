@@ -79,9 +79,9 @@ header{
     display: inline-block;
     background-color: rgb(34, 79, 230);
     color: white;
-    border-radius: 5px;
-    padding-left: 0px;
+    border-radius: 10px;
+    text-align: center;
     height: auto;
-    width: auto;
+    width: 98px;
     
 }
