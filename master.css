@@ -1,0 +1,42 @@
+ *{
+    background-color: rgba(189, 189, 189, 0.377);
+} 
+
+
+.quadratobianco{
+    background-color: white;
+    width: 80%;
+    height: 500px;
+    border-radius: 10%;
+    box-sizing: content-box;
+
+
+
+
+}
+
+
+
+
+.bottoneuno{
+    background-color: rgb(57, 90, 236);
+    width: 7%;
+    height: 30px;
+    text-align: center; 
+    border-radius: 20%;
+    color: white;
+    display: inline-block;
+    padding: 0%;
+    border: 0%;
+}
+
+.bottonedue{
+    display: inline-block;
+    border-color: gray;
+    border-style: solid;
+    color: gray;
+    border-radius: 20%;
+    height: 30px;
+    text-align: center;
+    width: 100px;   
+}
