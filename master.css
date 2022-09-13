@@ -13,68 +13,23 @@ header{
 }
 
 
-*{
-    background-color:gray;
+.sfondogrigio{
+    background-color: rgb(209, 206, 206);
+    height: 1000px;
+    width: 100%;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* .quadratobianco{
+.sfondobianco{
     background-color: white;
+    height: 100%;
     width: 80%;
-    height: 500px;
-    border-radius: 10%;
-    box-sizing: content-box;
-
-
-
-
+    margin-top: 100px;
+    display: inline-block;
+    margin-left: 190px;
 }
 
-
-
-
-.bottoneuno{
-    background-color: rgb(57, 90, 236);
-    width: 7%;
-    height: 30px;
-    text-align: center; 
-    border-radius: 20%;
-    color: white;
-    display: inline-block;
-    padding: 0%;
-    border: 0%;
+.addtask{
+    background-color: aqua;
+    padding-left: 100px;
+    padding: 10%;
 }
-
-.bottonedue{
-    display: inline-block;
-    border-color: gray;
-    border-style: solid;
-    color: gray;
-    border-radius: 20%;
-    height: 30px;
-    text-align: center;
-    width: 100px;   
-} */
