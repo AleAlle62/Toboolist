@@ -1,6 +1,4 @@
-html{
-    font-family: 'Roboto', sans-serif;
-}
+
 header{
     background-color: white;
     background-size: 10%;
@@ -18,6 +16,7 @@ header{
     font-size: xxx-large;
     background-color: white;
     vertical-align: middle;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 
@@ -29,7 +28,7 @@ header{
 
 .sfondobianco{
     background-color: white;
-    height: 100%;
+    height: 650px;
     width: 80%;
     margin-top: 100px;
     display: inline-block;
@@ -43,7 +42,7 @@ header{
     color: white;
     width: 55px;
     height: 15px;
-    border-radius: 10%;
+    border-radius: 15%;
     font-size: small; 
     margin-left: 80px;
     margin-top: 20px;
@@ -57,7 +56,7 @@ header{
     width: 80px;
     border: 1px solid rgb(197, 195, 195);
     height: 15px;
-    border-radius: 10%;
+    border-radius: 15%;
     font-size: small; 
     margin-left: 15px;
     display: inline-block;
@@ -72,7 +71,6 @@ header{
 }
 
 
-
 .listauno{
     list-style-type: lower-roman;
     list-style-type: none;
@@ -81,12 +79,17 @@ header{
 
 .editorial{
     display: inline-block;
-    background-color: rgb(34, 79, 230);
+    background-color: rgb(34, 142, 230);
     color: white;
-    border-radius: 10px;
+    border-radius: 15px;
     text-align: center;
-    height: auto;
+    padding-top: 8px;
+    height: 30px;
     width: 98px;
+}
+
+.news{
+    margin-top: 10px;
 }
 
 
@@ -95,19 +98,86 @@ header{
     list-style-type: none;
 }
 
+.recruiting{
+    margin-top: 10px;
+}
+
+
 
 
 .qunogoals{
     display: inline-block;
-    background-color: rgb(119, 3, 119);
+    background-color: rgb(187, 10, 187);
     color: white;
-    border-radius: 10px;
+    border-radius: 15px;
     text-align: center;
-    height: auto;
+    height: 30px;
+    padding-top: 8px;
     width: 98px;
 }
 
 
 .mobileapp{
-    margin-top: 20px;
+    margin-top: 10px;
+}
+
+.jhon{
+    display: inline-block;
+    background-color: rgb(9, 163, 76);
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+    height: 30px;
+    padding-top: 8px;
+    width: 98px;
+}
+
+.mobile{
+    display: inline-block;
+    background-color: rgb(236, 137, 95);
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+    height: 30px;
+    padding-top: 8px;
+    width: 70px; 
+}
+
+
+.listatre{
+    list-style-type: lower-roman;
+    list-style-type: none;
+}
+
+.web{
+    display: inline-block;
+    background-color: rgb(236, 95, 229);
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+    height: 30px;
+    padding-top: 8px;
+    width: 70px;
+}
+
+.Sales{
+    display: inline-block;
+    background-color: rgb(40, 218, 58);
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+    height: 30px;
+    padding-top: 8px;
+    width: 65px;
+}
+
+.last{
+    display: inline-block;
+    background-color: rgb(40, 117, 218);
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+    height: 30px;
+    padding-top: 8px;
+    width: 65px
 }
